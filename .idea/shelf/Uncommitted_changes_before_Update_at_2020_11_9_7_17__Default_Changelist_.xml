@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_2020_11_9_7_17_[Default_Changelist]" date="1604877436638" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_9_7_17_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2020/11/9 7:17 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="leong_teacher/target/classes/com/leong/utils/ExceptionUtil.class" />
+    <option name="AFTER_PATH" value="leong_teacher/target/classes/com/leong/utils/ExceptionUtil.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_9_7_17_[Default_Changelist]/ExceptionUtil.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="leong_teacher/target/classes/com/leong/controller/UserController.class" />
+    <option name="AFTER_PATH" value="leong_teacher/target/classes/com/leong/controller/UserController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_9_7_17_[Default_Changelist]/UserController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="leong_common/target/classes/com/leong/result/Result.class" />
+    <option name="AFTER_PATH" value="leong_common/target/classes/com/leong/result/Result.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_9_7_17_[Default_Changelist]/Result.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="leong_teacher/target/test-classes/com/leong/CodeGenerator.class" />
+    <option name="AFTER_PATH" value="leong_teacher/target/test-classes/com/leong/CodeGenerator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_9_7_17_[Default_Changelist]/CodeGenerator.class" />
+  </binary>
+</changelist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LEONG-Edu.iml" filepath="$PROJECT_DIR$/LEONG-Edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../generate_Mp/generate_Mp.iml" filepath="$PROJECT_DIR$/../generate_Mp/generate_Mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leong_common/leong_common.iml" filepath="$PROJECT_DIR$/leong_common/leong_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leong_oss/leong_oss.iml" filepath="$PROJECT_DIR$/leong_oss/leong_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leong_teacher/leong_teacher.iml" filepath="$PROJECT_DIR$/leong_teacher/leong_teacher.iml" />
+    </modules>
+  </component>
+</project>

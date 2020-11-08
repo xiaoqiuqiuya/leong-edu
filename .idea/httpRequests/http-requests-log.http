@@ -1,0 +1,82 @@
+POST http://localhost:8081/user/login
+Content-Type: application/json
+
+{
+  "username":"admin",
+"password":"adminadmin"
+}
+
+<> 2020-11-08T042526.200.json
+
+###
+
+POST http://localhost:8081/user/login
+Content-Type: application/json
+
+{
+  "username":"admin",
+"password":"admin"
+}
+
+<> 2020-11-08T042513.200.json
+
+###
+
+POST http://localhost:8081/user/login
+Content-Type: application/json
+
+{username:admin,
+  password:admin
+}
+
+<> 2020-11-08T042401.200.json
+
+###
+
+POST http://localhost:8081/user/login
+Content-Type: application/json
+{username: admin,
+  password: admin
+}:
+
+<> 2020-11-08T042357.200.json
+
+###
+
+POST http://localhost:8081/user/login
+Content-Type: application/json
+{:
+username: admin,
+password: admin
+}:
+
+<> 2020-11-08T042306.200.json
+
+###
+
+POST http://localhost:8081/user/login
+{:
+username: admin,
+password: admin
+}:
+
+<> 2020-11-08T042251.200.json
+
+###
+
+POST http://localhost:8081/user/login
+
+<> 2020-11-08T042204.200.json
+
+###
+
+GET http://localhost:8081/user/login
+
+<> 2020-11-07T051612.200.json
+
+###
+
+GET http://localhost:8081/user/login
+
+###
+
